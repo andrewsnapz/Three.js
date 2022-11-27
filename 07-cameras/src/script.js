@@ -100,7 +100,6 @@ const tick = () => {
   //   camera.position.y = cursor.y * 5;
   //   camera.lookAt(mesh.position);
 
-  // Update controls
   controls.update();
 
   // Render
